@@ -1,0 +1,10 @@
+{
+  "table": {
+    "all": "全部",
+    "confirm": "确认",
+    "reset": "重置",
+    "pagination":{
+      "current": "当前页第 {start} - {end} 条，共 {total} 条"
+    }
+  }
+}
