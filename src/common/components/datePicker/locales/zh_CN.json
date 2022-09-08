@@ -1,0 +1,26 @@
+{
+  "datePicker": {
+    "static": "静态时间",
+    "active": "动态时间",
+    "beginDatetime": "开始时间",
+    "endDatetime": "结束时间",
+    "quickChoice": "快速选择",
+    "confirm": "确认",
+    "cancel": "取消",
+    "today": "今日",
+    "yesterday": "昨日",
+    "thisWeek": "本周",
+    "lastWeek": "上周",
+    "thisMonth": "本月",
+    "lastMonth": "上月",
+    "lastDays": "过去{days}日",
+    "recentDays": "近{days}日",
+    "lastDaysRange": "过去{begin}日至过去{end}日",
+    "oneDayBefore": "前一日",
+    "oneWeekBefore": "前一周",
+    "oneMonthBefore": "前一月",
+    "LastCycle": "上一周期",
+    "lockBeginDatetime": "锁定开始时间为静态",
+    "timezone": "当前时区 UTC{timezone}"
+  }
+}

@@ -1,0 +1,22 @@
+export type IFIndexList = {
+  clusterId: string;
+  clusterName: string;
+  clusterType: string;
+  clusterTypeCn: string;
+  displayName: string;
+  progress: number;
+  projectId: number;
+  refreshTime: string;
+  refreshType: number;
+  refreshTypeCn: string;
+  remarks: string;
+  status: number;
+  statusCn: string;
+  subject: string;
+  subjectCn: string;
+  tagType: string;
+  tagTypeCn: string;
+  userId: number;
+  userName: string;
+  usersNum: number;
+};
